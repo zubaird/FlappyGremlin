@@ -5,7 +5,7 @@ This is a fun iOS game I made in Ruby to test what's possible for a mobile devel
 The game runs extremely smooth on an iPhone 5 and iPhone 4 -  I have not tested it on any other device.
 
 The Game: 
-Catch the bananas while hopping off the wing of a airplane!
+Catch the bananas while hopping off the wing of an airplane!
 
 Controls:
 <-- Tap to the left of the Gremlin to hop left.
