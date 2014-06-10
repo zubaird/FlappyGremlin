@@ -13,6 +13,7 @@ Controls:
 ^   Tap right above the Gremlin to hop straight up.
 
 Here are the rules of this friendly game:
+
 1 . Fall off the side? - you die.  
 2.  Jump too high? - you die.  
 3.  Miss a banana? - you die.
