@@ -14,9 +14,9 @@ Controls:
 
 Here are the rules of this friendly game:
 
-1. Fall off the side? - you die.  
-2. Jump too high? - you die.  
-3. Miss a banana? - you die.
+1. Don't fall off the side. 
+2. Don't jump too high.  
+3. Don't miss a banana!
 
 I incorporated Box2D physics engine, RubyMotion and JoyBox.  
 
